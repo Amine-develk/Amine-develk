@@ -12,7 +12,7 @@
  <h3>💻 Tech Stack:</h3>
     Frontend: React, HTML5, CSS3, Bootstrap CSS, JavaScript<br/>
     Backend: Laravel, Php, Python<br/>
-    Databases: MongoDB, MySQL<br/>
+    Databases: MongoDB, MySQL<br/>  
     Tools: Git, Docker, Figma, Jira, GraphQL<br/>
     
 
