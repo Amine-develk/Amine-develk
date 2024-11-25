@@ -14,7 +14,7 @@
     Frontend: React, HTML5, CSS3, Bootstrap CSS, JavaScript<br/>
     Backend: Laravel, Php, Python<br/>
     Databases: MongoDB, MySQL<br/>  
-    Tools: Git, Docker, Figma, Jira, GraphQL<br/>
+    Tools: Git, Docker, Figma, Jira<br/>
     
 
  <h3>🔄 What I'm Working On:</h3>
