@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Amine
+- <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
