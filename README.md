@@ -6,7 +6,7 @@
   
  <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
 
- <h3 display="inline">📬 Reach me on LinkedIn:</h4>  
+ <h3>📬 Reach me on LinkedIn:</h4>  
 <a href="https://www.linkedin.com/in/amine-elkraiti-0a73b6215">Amine El kraiti</a>
 
  <h3>💻 Tech Stack:</h3>
