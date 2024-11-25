@@ -1,3 +1,4 @@
+<section align="center">
 <h2> Hi 👋 I'm Amine </h2>
 <h5>A passionate web developer with a strong focus on building dynamic, user-friendly web applications. </5>
  <h5>A spetialized tecticien in full stack web developpemt </h5>
@@ -26,5 +27,5 @@
     Web app development projects<br/>
     Open-source contributions<br/>
     UX/UI design and front-end development<br/>
-    
-
+ 
+</section>
