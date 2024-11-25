@@ -1,10 +1,8 @@
 <h2> Hi 👋 I'm Amine </h2>
-<p>A passionate web developer with a strong focus on building dynamic, user-friendly web applications. </p>
-
-  
- <h3>A spetialized tecticien in full stack web developpemt </h3>
-  <h3>I’m currently studing the 42 cursus at 1337 coding school</h3>
-  <h3>I’m looking to collaborate on web app projects </h3>
+<h5>A passionate web developer with a strong focus on building dynamic, user-friendly web applications. </5>
+ <h5>A spetialized tecticien in full stack web developpemt </h5>
+  <h5>I’m currently studing the 42 cursus at 1337 coding school</h5>
+  <h5>I’m looking to collaborate on web app projects </h5>
   
  <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
 
