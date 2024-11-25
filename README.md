@@ -6,7 +6,7 @@
 
  <h4>📬 Reach me on LinkedIn:</h4>
  <a href="linkedin.com/in/amine-elkraiti-0a73b6215"/>
-// linkedin.com/in/amine-elkraiti-0a73b6215
+linkedin.com/in/amine-elkraiti-0a73b6215
  
  <h3>A spetialized tecticien in full stack web developpemt </h3>
  <h4>💻 Tech Stack:</h4>
