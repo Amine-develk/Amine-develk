@@ -1,10 +1,11 @@
 <h2> Hi 👋 I'm Amine </h2>
 <p>A passionate web developer with a strong focus on building dynamic, user-friendly web applications. </p>
 
-<h4>📬 Reach me on LinkedIn:</h4>
- // linkedin profile
  
  <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
+
+ <h4>📬 Reach me on LinkedIn:</h4>
+ // linkedin profile
  
  <h3>A spetialized tecticien in full stack web developpemt </h3>
  <h4>💻 Tech Stack:</h4>
