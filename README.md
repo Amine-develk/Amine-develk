@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @Amine
-- <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Amine
-- ⚡ Fun fact: ...
+<h2> Hi 👋 I'm Amine </h2>
+<p>A passionate web developer with a strong focus on building dynamic, user-friendly web applications. </p>
 
-<!---
-Amine-develk/Amine-develk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4>📬 Reach me on LinkedIn:</h4>
+ // linkedin profile
+ 
+ <img src="https://badge.mediaplus.ma/greenbinary/ael-krai" alt="ael-krai's 42 stats" />
+ 
+ <h3>A spetialized tecticien in full stack web developpemt </h3>
+ <h4>💻 Tech Stack:</h4>
+    Frontend: React, HTML5, CSS3, Bootstrap CSS, JavaScript
+    Backend: Laravel, Php, Python
+    Databases: MongoDB, MySQL
+    Tools: Git, Docker, Figma, Jira, GraphQL
+    
+ <h3>I’m currently studing the 42 cursus at 1337 coding school</h3>
+ <h4>🔄 What I'm Working On:</h4>
+    Building scalable web apps with modern frameworks
+    Learning new technologies to stay ahead of the curve
+
+    
+ <h3>I’m looking to collaborate on web app projects </h3>
+ <h4>🚀 Looking to Collaborate On:</h4>
+    Web app development projects
+    Open-source contributions
+    UX/UI design and front-end development
+    
