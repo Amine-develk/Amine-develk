@@ -3,8 +3,8 @@
 
 Hi! I'm Amine El kraiti, and I'm a full-stack web developer passionate about technology.
 
-- 🌱 Currently learning: software engeneering
-- 💼 Working on: building my own shell
+- 🌱 Currently learning: Software Engeneering
+- 💼 Working on: Building innovative web solutions
 - 📫 Contact me: elkraitia@gmail.com
 
 <!--
