@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+Hi! I'm Amine El kraiti, and I'm a full-stack web developer passionate about technology.
+
+- 🌱 Currently learning: software engeneering
+- 💼 Working on: building my own shell
+- 📫 Contact me: elkraitia@gmail.com
+
 <!--
 **Amine-develk/Amine-develk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
